@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing the **Indian Premier League (IPL) 20
 ---
 ## 📸 Dashboard Preview  
 
-![IPL 2025 Dashboard](e5e584c8-6c0a-4c0b-9128-d9e3151eec7f.png)  
+![IPL 2025 Dashboard](https://github.com/mondal-subhajit05/IPL-ANALYSIS/blob/32bcb005f9071f441a51b72035a69a54ce123b30/Screenshot_ipl.png) 
 
 ## 📊 Key Insights  
 
@@ -55,4 +55,4 @@ An interactive Power BI dashboard analyzing the **Indian Premier League (IPL) 20
 
 ## 📬 Contact  
 
-👤 Created by **Subhajit**
+👤 Created by **Subhajit Mondal**
